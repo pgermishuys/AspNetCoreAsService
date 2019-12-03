@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHostAsService", "WebHostAsService.csproj", "{BD57DA35-D7A3-4F3A-BCF8-4B9F8B298BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD57DA35-D7A3-4F3A-BCF8-4B9F8B298BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD57DA35-D7A3-4F3A-BCF8-4B9F8B298BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD57DA35-D7A3-4F3A-BCF8-4B9F8B298BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD57DA35-D7A3-4F3A-BCF8-4B9F8B298BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
